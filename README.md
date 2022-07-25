@@ -1,10 +1,10 @@
-# *Fxrgtt#9981* ⌚
+# *Fxrgtt.#8847*
 
-✉️ • **Name:** Lucas/Fxrgtt.
+**Age:** 13 years
 
-🕯️ • **Age:** 13 years
+**Studying:** C++
 
-🎓 • **Studying:** C Lang, Malware Analysis.
+**General Knowledges:** Malware Analysis.
 ##
 <div>
   <a href="https://github.com/Fxrgtt">
